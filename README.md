@@ -5,6 +5,6 @@
 ### Ardupilot Arduino - Firmware Build & Flashing
 
 
-# Reference
+# References
 
 - https://github.com/jlnaudin/x-drone/wiki/X-PLANE-TUTORIAL:-X-Plane-v10-with-ArduPlane-v2.73-xp1-in-HIL-mode-simulation
